@@ -1,0 +1,84 @@
+
+
+body {
+    background-image: url(../dat/fm1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.frm {
+    background-color: black;
+    opacity: 0.9;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 0;
+}
+
+.in{
+    margin-left: 20%;
+    margin-right: 10%;
+    padding: 10%;
+    padding-top: 5%;
+}
+
+input {
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    padding:8px 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #eee;
+    border-left: 4px solid;
+    border-left-color:salmon; 
+    border-radius: 5px;
+    transition: border-color .8s ease-out;
+  }
+  
+  input:focus{
+    outline:none;
+    border: 1px solid #eee;
+    border-left: 4px solid #888;
+  }
+
+  .in #adr {
+    padding:18px 100px;
+  }
+
+  .in #trh {
+      padding: 8px 115px;
+  }
+
+  .p2 {
+      color: whitesmoke;
+      text-align: center;
+      padding-top: 3%;
+      font-size: 30px;
+  }
+
+select {
+    margin-left: 31%;
+    padding:8px 80px;
+    border: 1px solid #eee;
+    font-size: 16px;
+    border-radius: 4px;
+    background-color: black;
+    color: whitesmoke;
+    margin-bottom: 5%;
+}
+
+h5 {
+    color: whitesmoke;
+    padding-left: 32%;
+    font-size: 15px;
+}
+
+.in #btn {
+    padding: 8px 30px;
+    border-radius: 4px;
+    border: 1px solid #eee;
+    margin-left: 105px;
+    text-decoration: none;
+    color: whitesmoke;
+    
+}

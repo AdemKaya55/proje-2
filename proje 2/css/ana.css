@@ -1,0 +1,72 @@
+body {
+    background-image: url("../dat/an1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+header {
+    background-color: black;
+    opacity: 0.7;
+    height: 55px;
+    width: auto;
+}
+
+.p1 {
+    height: 20px;
+    width: 400px;
+    margin-top: 0;
+    text-decoration: none;
+    letter-spacing: 1px;
+    margin-left: 5%;
+}
+
+.p1 p {
+    color: white;
+    text-align: left;
+    text-align: center;
+    padding-top: 17px;
+    font-size: 20px;
+}
+
+
+.p2 li {
+    list-style-type: none;
+    transition: all .6s ease;
+    margin-left: 95%;
+}
+
+.p2 li:hover a {
+    background-color: rgb(148, 9, 9);
+    color: whitesmoke;
+}
+
+.p2 li a {
+    height: 10px;
+    width: 20px;
+    padding: 20px 15px;
+    text-decoration: none;
+    letter-spacing: 1px;
+    color: whitesmoke;
+    
+}
+
+.p3 {
+    height: 60%;
+    width: 20%;
+    background-color: black;
+    opacity: 0.7;
+}
+
+.p3 h4 {
+    font-size: 18px;
+    color: whitesmoke;
+    padding: 6px;
+}
+
+.p3 p {
+    font-size: 16px;
+    color: whitesmoke;
+    padding: 6px;
+}
+
